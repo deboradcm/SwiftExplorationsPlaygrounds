@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='Introdução'/>
+        <page name='Como invocar funções'/>
+        <page name='Repetição'/>
+        <page name='Um só trabalho'/>
+        <page name='Decomposição'/>
+        <page name='Funções dentro de funções'/>
+        <page name='Loops infinitos'/>
+        <page name='Como esconder a complexidade'/>
+        <page name='Uma única mudança'/>
+        <page name='Conclusão'/>
+        <page name='Exercício de meme'/>
+        <page name='Meme pessoal'/>
+    </pages>
+</playground>
